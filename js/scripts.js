@@ -26,7 +26,7 @@ window.onload = function() {
     'I\'m DARK',
     'I am a student , web developer and a professional discord bot / server developer.',
     'I\M CURRENTLY WORKING ON UPGRADING MY WEB DEVELOPMENT SKILLS.<br> I HAVE GIVEN MY SOCIAL MEDIA HANDELS , IN CASE IF YOU WANT TO CONTACT ME . MY GMAIL <a href="mailto:darkeyeff4you@gmail.com">darkeyeff4you@gmail.com</a>',
-    '<a target="_blank" href="https://www.instagram.com/iam_arihant/">instagram.com/iam_arihant</a><br><a target="_blank" D A R K 🖤#0100 [DISCORD ID]</a><br><a target="_blank" href="https://www.youtube.com/channel/UC68F_CgZYcBfV4OUITudS6w">youtube.com/dark01 yt</a>',
+    '<a target="_blank" href="https://www.instagram.com/arihanntt/">instagram.com/arihanntt</a><br><a target="_blank" D A R K 🖤#0100 [DISCORD ID]</a><br><a target="_blank" href="https://www.youtube.com/channel/UC68F_CgZYcBfV4OUITudS6w">youtube.com/dark01 yt</a>',
     getCurrentTime(),
     '👀 NICE TO MEET YOU , :D'
   ]
